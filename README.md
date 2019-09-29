@@ -1,7 +1,9 @@
 # Darksky_WeatherReport_Kotlin
  Weather Report, Kotlin, https://api.darksky.net/, Retrofit
  
- <img src ="![device-2019-09-24-140011](https://user-images.githubusercontent.com/10658016/65835284-0ed83180-e302-11e9-954d-cedb3d15e83b.png) width = "100">
+ ![rsz_device-2019-09-24-140104](https://user-images.githubusercontent.com/10658016/65835471-1e587a00-e304-11e9-8e4f-981e0519703f.png)
+![rsz_1device-2019-09-24-140104](https://user-images.githubusercontent.com/10658016/65835489-45af4700-e304-11e9-89d7-5569975ab622.png)
+
  
  
  
