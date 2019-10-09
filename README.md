@@ -1,4 +1,4 @@
-# Darksky_WeatherReport_Kotlin
+# Darksky WeatherReport Using MVP architecture
 
 The main purpose of this app is retrieving Weather Report from https://api.darksky.net/ using Retrofit for doing HTTP request & GSON lib for parsing.
  
